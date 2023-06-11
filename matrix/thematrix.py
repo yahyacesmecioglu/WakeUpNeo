@@ -36,24 +36,3 @@ clear()
 text = ('\033[92m'+ "Knock, knock, Neo.")
 sprint(text)
 time.sleep(3)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
